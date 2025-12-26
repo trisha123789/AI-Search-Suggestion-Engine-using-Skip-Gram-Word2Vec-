@@ -1,6 +1,5 @@
 # AI Search Suggestion Engine using Skip-Gram (Word2Vec)
 
-![AI Search Engine](./0e828946-deb9-4563-b63b-3258eab69089.png)
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
